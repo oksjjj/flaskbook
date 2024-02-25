@@ -1,5 +1,6 @@
-migrations/*
-*.sqlite
-**/__pycache__/
 .venv/*
-*.code-workspace
+**/*.sqlite
+**/*.sqlite3
+**/__pycache__/
+**/migrations/
+**/*.code-workspace
