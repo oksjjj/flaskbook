@@ -1,0 +1,5 @@
+migrations/*
+*.sqlite
+__pycache__/*
+.venv/*
+*.code-workspace
