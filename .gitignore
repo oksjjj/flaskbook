@@ -1,5 +1,7 @@
 migrations/*
 *.sqlite
 __pycache__/*
+apps/__pycache__/*
+apps/crud/__pycache__/*
 .venv/*
 *.code-workspace
