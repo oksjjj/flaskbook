@@ -1,6 +1,7 @@
 .venv/*
 **/*.sqlite
 **/*.sqlite3
+.DS_Store
 **/__pycache__/
 **/migrations/
 **/*.code-workspace
